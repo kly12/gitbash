@@ -1,1 +1,3 @@
 ah,i am a studentskly
+
+int o=2;
