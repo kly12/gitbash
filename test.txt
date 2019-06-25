@@ -1,1 +1,1 @@
-ah,i am a studentskly
+ah,i am a studentskly int a=1;
